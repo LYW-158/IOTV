@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 
-#EXTINF：-1tvg-id="1"tvg-name="CCTV1"tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png"group-title="中央频道"，CCTV-1综合
+#EXTINF：-1tvg-id="1"tvg-name="CCTV1"tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png"group-title="中央频道"，CCTV1
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$LR•IPV6『 线路1』
